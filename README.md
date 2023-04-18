@@ -27,6 +27,6 @@ The examples in this repository are primarily implemented in Python, and require
 - Scikit-learn
 
 # Languages 
-- Python
+- Python (Jupyter)
 
 
