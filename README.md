@@ -13,8 +13,7 @@ The topics that will be covered or included in this repository:
 
 - Case 3 : Collaborative filtering
 
-- Case 4 : Frequently bought together (No ML): It recommends those which are bought together by customers.The strategy I used here is that I filtered out items having same ID and day the item having same ID, ofcourse are bought together and then I've created a frequency table to suggest top items that are bought together.
-
+- Case 4 : Frequently bought together (No ML): It suggests items that customers purchase in bulk.The tactic I employed in this case was to filter out products with the same ID and the date those items were, of course, purchased simultaneously. I then developed a frequency table to recommend the top items that were purchased concurrently.
 
 # Dependencies
 
